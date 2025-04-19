@@ -1,0 +1,8 @@
+bcrypt==4.3.0
+certifi==2025.1.31
+charset-normalizer==3.4.1
+idna==3.10
+mysql-connector-python==9.3.0
+npyscreen==4.10.5
+requests==2.32.3
+urllib3==2.4.0
