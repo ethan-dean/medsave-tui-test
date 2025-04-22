@@ -1,6 +1,5 @@
 import npyscreen
-from db import Database
-from api_client import PlaidClient
+from plaid_client import PlaidClient
 from models import Account, BillItem
 
 class LoginForm(npyscreen.ActionForm):
