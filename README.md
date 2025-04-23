@@ -8,7 +8,9 @@ python -m venv .venv
 pip install -r requirements.txt
 ```
 
+Acquire .env file for API-KEY.
+
 ## Running
 ```bash
-python main.py
+python client.py
 ```
