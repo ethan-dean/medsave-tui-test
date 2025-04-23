@@ -1,0 +1,30 @@
+[
+  {
+    "account_id": "e33e0ded-e905-4a9b-8dc0-5ee86c2c6e44",
+    "user_id": "1f2e3d4c-5b6a-7d8e-9f01-234567890abc",
+    "name": "My Checking",
+    "mask": "1234",
+    "balance": 2500.00
+  },
+  {
+    "account_id": "bdc85717-34e5-4fe9-a998-ad7321e1785c",
+    "user_id": "1f2e3d4c-5b6a-7d8e-9f01-234567890abc",
+    "name": "My Savings",
+    "mask": "5678",
+    "balance": 10000.00
+  },
+  {
+    "account_id": "261b8b33-c863-48d8-b8ac-cdb3d63660f4",
+    "user_id": "1f2e3d4c-5b6a-7d8e-9f01-234567890abc",
+    "name": "Rewards Card",
+    "mask": "4321",
+    "balance": 500.00
+  },
+  {
+    "account_id": "f320e4b1-d92e-4d6a-a6ea-be2d48b20d86",
+    "user_id": "1f2e3d4c-5b6a-7d8e-9f01-234567890abc",
+    "name": "Retirement",
+    "mask": "N/A",
+    "balance": 3600.00
+  }
+]

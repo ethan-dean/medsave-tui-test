@@ -1,0 +1,32 @@
+[
+  {
+    "user_id": "1f2e3d4c-5b6a-7d8e-9f01-234567890abc",
+    "service": "Emergency Room Services",
+    "cost": 1500.00
+  },
+  {
+    "user_id": "1f2e3d4c-5b6a-7d8e-9f01-234567890abc",
+    "service": "Laboratory Tests",
+    "cost": 300.00
+  },
+  {
+    "user_id": "1f2e3d4c-5b6a-7d8e-9f01-234567890abc",
+    "service": "Radiology/Imaging",
+    "cost": 450.00
+  },
+  {
+    "user_id": "1f2e3d4c-5b6a-7d8e-9f01-234567890abc",
+    "service": "Inpatient Surgery Charge",
+    "cost": 2000.00
+  },
+  {
+    "user_id": "1f2e3d4c-5b6a-7d8e-9f01-234567890abc",
+    "service": "Hospital Stay (x2 Nights)",
+    "cost": 800.00
+  },
+  {
+    "user_id": "1f2e3d4c-5b6a-7d8e-9f01-234567890abc",
+    "service": "Physician Consultation",
+    "cost": 120.00
+  }
+]

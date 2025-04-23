@@ -1,0 +1,16 @@
+[
+  {
+    "id": "1f2e3d4c-5b6a-7d8e-9f01-234567890abc",
+    "email": "testemail",
+    "password": "testpass",
+    "linkedAccountIDs": [],
+    "linkedTransactionIDs": []
+  },
+  {
+    "id": "f634cbc4-09a5-49b5-9c7d-71588ebd4fd4",
+    "email": "jjj",
+    "password": "",
+    "linkedAccountIDs": [],
+    "linkedTransactionIDs": []
+  }
+]
